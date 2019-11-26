@@ -1,0 +1,255 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px)
+
+{ 
+	 /*header start*/
+	 header{
+		background-position: center;
+    background-size: cover;
+	 }
+	 .content h2{
+	 	font-size: 25px;
+	 }
+	 .content p{
+	 	font-size: 10px;
+	 }
+	 .perfect span {
+	 	font-size: 16px;
+    margin-left: 15px;
+	 }
+	 .pic-content h1 {
+	 	font-size: 29px;
+	 }
+	 .pic-content h2 {
+	 	font-size: 10px;
+    margin-top: 14px;
+	 }
+	 .p-content p{
+	 	font-size: 11px;
+    
+    margin-top: 8px;
+    margin-bottom: 9px;
+	 }
+	 .vdo-content h1{}
+	 .vdo-content p {}
+	 .foster-content h1{
+	 	font-size: 35px;
+    color: white;
+    margin-bottom: 20px;
+    margin-top: 20px
+	 }
+	 .foster-content p{
+	 	margin-top: 30px;
+    font-size: 15px;
+    margin-bottom: 15px;
+	 }
+	 .news-content p {
+	 	font-size: 17px;
+    line-height: 35px;
+	 }
+	 .news-content h1{
+	 	margin-bottom: 20px;
+    margin-top: 15px;
+	 }
+	 .icon{
+	 	text-align: center;
+	 }
+	 .boxcontent h1{
+	 	text-align: center;
+	 }
+	 .boxcontent p{
+	 	text-align: center;
+	 }
+	 .Volunteer{
+	 	background-position: center;
+    background-size: cover;
+	 }
+	 .a-title h1{
+	 	margin-left: 0;
+	 }
+	 .a-icon{
+	 	font-size: 20px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+	 }
+	
+	 }
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) 
+{ 
+	/*header start*/
+	header{
+		background-position: center;
+    background-size: cover;
+	 }
+	 .content h2{
+	 	font-size: 40px;
+	 }
+	 .content p{
+	 	font-size: 20px;
+	 }
+	 .perfect span {}
+	 .pic-content h1 {
+	 	font-size: 40px;
+    text-align: center;
+    margin-top: 0;
+	 }
+	 .pic-content h2 {}
+	 .pic-content p{
+	 	margin-top: 0; 
+     margin-bottom: 0;
+	 }
+	 .vdo-content h1{}
+	 .vdo-content p {}
+	 .foster-content h1{
+	 	font-size: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+	 }
+	 .foster-content p{
+	 	margin-top: 30px;
+    font-size: 25px;
+    color: white;
+    margin-bottom: 20px;
+	 }
+	 .news-content p{
+	 	font-size: 18px;
+    line-height: 37px;
+	 }
+	 .news-content h1 {
+    
+    margin-left: 19px;
+}
+	 .icon{
+	 	text-align: center;
+	 }
+	 .boxcontent h1 {
+	 	text-align: center;
+	 }
+	 .boxcontent p{
+	 	text-align: center;
+	 }
+	 .a-title h1 {
+	 	margin-left: 1px;
+	 }
+	 .a-icon{
+	 	font-size: 20px;
+    margin-left: 7px;
+    margin-bottom: 5px;
+	 }
+	}
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) 
+{ 
+	/*header start*/
+	header{
+		background-size: cover;
+    background-position: center;
+	 }
+	 .content h2{
+	 	font-size: 35px
+
+	 }
+	 .content p{
+	 		font-size: 19px;
+	 }
+	 .perfect span {
+	 	font-size: 27px;
+	 }
+	 .pic-content h1 {
+	 	font-size: 35px;
+	 }
+	 .pic-content h2 {
+	 	font-size: 18px;
+    margin-top: 13px;
+	 }
+	 .pic-content p{
+	 	font-size: 17px;
+    margin-top: 14px;
+    margin-bottom: 12px;
+	 }
+	 .vdo-content h1{
+	 	margin-left: 203px;
+	 }
+	 .vdo-content p {
+	 	margin-top: 11px;
+	 	margin-left: 228px;
+	 }
+	 .foster-content h1{
+	 	font-size: 30px;
+	 }
+	 .foster-content p {
+	 	margin-top: 20px;
+    font-size: 18px;
+    margin-bottom: 12px;
+    word-spacing: 4px;
+	 }
+	 .headline1 h1{
+	 	margin-bottom: 40px;
+    font-size: 35px;
+	 }
+	 .headline2 h1{
+	 	font-size: 35px;
+	 }
+	 .r-content h1{
+	 	font-size: 24px;
+	 }
+	 .r-content p{
+	 	font-size: 15px;
+	 }
+	 .r-content h5{
+	 	margin-top: 12px;
+	 }
+	 .news-content h1{
+	 	margin-bottom: 15px;
+    font-size: 25px;
+    margin-top: 15px;
+	 }
+	 .news-content p{
+	 	font-size: 18px;
+    line-height: 27px;
+	 }
+	 .icon{
+	 	text-align: center;
+	 }
+	 .boxcontent h1{
+	 	text-align: center;
+	 }
+	 .boxcontent p{
+	 	text-align: center;
+	 }
+	 .a-icon{
+	 	font-size: 20px;
+    margin-left: 66px;
+	 }
+	 .a-contnt h1{
+	 	font-size: 11px;
+	 }
+
+	}
+
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) 
+{ 
+	header{
+		background-position: center;
+    background-size: cover;
+	}
+	.foster-content h1{
+		font-size: 45px;
+	}
+	.foster-content p{
+		font-size: 16px;
+		word-spacing: 6px;
+	}
+	.testimonial{
+		margin-top: 10px;
+	}
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }
